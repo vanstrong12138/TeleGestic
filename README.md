@@ -1,8 +1,9 @@
-# TeleGestic-直观的机器人遥程作，只需手势即可
+# TeleGestic-直观的机器人遥操作，只需手势即可
 
 ## 仓库
 
-- 跳转仓库[https://github.com/vanstrong12138/TeleGestic](https://github.com/vanstrong12138/TeleGestic)
+- TeleGestic:[https://github.com/vanstrong12138/TeleGestic](https://github.com/vanstrong12138/TeleGestic)
+- Agilex-College:[https://github.com/agilexrobotics/Agilex-College/tree/master](https://github.com/agilexrobotics/Agilex-College/tree/master)
 
 ## 硬件设备
 
